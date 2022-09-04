@@ -5,5 +5,5 @@ Our project Farmomatic will helped farmer to get all farming machines and equipm
 HTML & CSS
 ## Theme : 
 Agriculture
-##Team : 
+## Team : 
 Team Number : 35, Aseem Maurya (DCH-8109), Gagandeip Singh(DCH-8056), Arshpreet Singh(DCH-8105), Devanshu Rastogi(DCH-8108)
